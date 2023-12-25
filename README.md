@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Webapp using GO**
 
-- 🌱 I’m currently learning **Go ,React,Kubernetes,linux**
+- 🌱 I’m currently learning **C# ,React,Kubernetes,linux**
 
 - 📝 I regularly write articles on [https://devajk.hashnode.dev/](https://devajk.hashnode.dev/)
 
