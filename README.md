@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://devajk.hashnode.dev/](https://devajk.hashnode.dev/)
 
-- 💬 Ask me about **GO,C++,Html,CSS,API.**
+- 💬 Ask me about **C#,C++,Html,CSS,API.**
 
 - 📫 How to reach me **ajinkyakamble18764@gmail.com**
 
