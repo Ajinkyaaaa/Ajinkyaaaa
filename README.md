@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
 
 
-- 🔭 I’m currently working on **Webapp using GO**
+- 🔭 I’m currently working on **Webapp using C#**
 
 - 🌱 I’m currently learning **C# ,React,Kubernetes,linux**
 
