@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif">
 
 
-- 🔭 I’m currently working on **Webapp using C#**
+- 🔭 I’m currently working on **Webapp using python**
 
-- 🌱 I’m currently learning **C# ,React,Kubernetes,linux**
+- 🌱 I’m currently learning **fastapi ,python,Kubernetes,linux**
 
 - 📝 I regularly write articles on [https://devajk.hashnode.dev/](https://devajk.hashnode.dev/)
 
-- 💬 Ask me about **C#,C++,Html,CSS,API.**
+- 💬 Ask me about **python,C++,Html,CSS,API.**
 
-- 📫 How to reach me **ajinkyakamble18764@gmail.com**
+- 📫 How to reach me **ajinkyakamble241701@gmail.com**
 
 - ⚡ Fun fact **Every problem is a gift—without problems we would not grow.**
 
